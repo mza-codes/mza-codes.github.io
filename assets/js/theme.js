@@ -21,7 +21,7 @@ function toggleTheme() {
 let click = 0
 function replaceClassv2() {
   click += 1
-  const theme = ['orange', 'purple', 'blue', 'yellow', 'red', 'green']
+  const theme = ['orange', 'purple', 'blue', 'yellow', 'red', 'green', 'white', 'ylw', 'pale', 'brown']
   if (click == theme.length) { click = 0 }
   page.classList.replace(page.classList[0], theme[click])
   updateLocalStorage()

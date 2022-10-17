@@ -103,6 +103,33 @@ body::before {
   --text-3: #e83535 !important ;
   --text-4: #990000 !important;
 }
+.white{
+  --text-main: #18d2b9 !important; 
+  --text-2: rgb(76, 198, 235) !important;
+  --text-3: #35e8df !important ;
+  --text-4: #009985 !important;
+}
+.pale{
+  --text-main: #A8E890 !important; 
+  --text-2: #CFFF8D !important;
+  --text-3: #749F82 !important ;
+  --text-4: #425F57 !important;
+}
+.brown{
+  /* 61481C */
+  --text-main: #ffc664 !important; 
+  --text-2: #A47E3B !important;
+  --text-3: #BF9742 !important ;
+  --text-4: #E6B325 !important;
+}
+.ylw{
+  --text-main: #FFCC1D !important; 
+  --text-2: #460b1d !important;
+  --text-3: #006124 !important ;
+  --text-4: #979700 !important;
+}
+/* FFCC1D */
+
 .pointer{
   cursor: pointer;
 }
