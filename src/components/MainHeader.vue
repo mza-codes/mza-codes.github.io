@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { IconLink } from "@/types";
 import LinkIcon from "./LinkIcon.vue";
 import NavBar from "./NavBar.vue";
 

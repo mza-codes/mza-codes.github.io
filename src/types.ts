@@ -1,4 +1,4 @@
-declare type IconLink = {
+export type IconLink = {
     url: string;
     icon: SocialKeys;
 };

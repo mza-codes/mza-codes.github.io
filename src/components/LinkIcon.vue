@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { IconLink } from "@/types";
+
 defineProps<IconLink>();
 </script>
 
